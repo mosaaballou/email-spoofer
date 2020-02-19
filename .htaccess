@@ -1,5 +1,3 @@
 DirectoryIndex index.php 
 
 RewriteEngine On
-
-RewriteRule !^email-spoofer/ email-spoofer%{REQUEST_URI} [L,NC]
