@@ -1,2 +1,5 @@
-DirectoryIndex index.php
-RewriteRule . /index.php [L]
+DirectoryIndex index.php index.html
+
+RewriteEngine On
+
+RewriteRule !^email-spoofer/ email-spoofer%{REQUEST_URI} [L,NC]
