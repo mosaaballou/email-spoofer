@@ -31,7 +31,7 @@ exit();
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta http-equiv="X-UA-Compatible" content="ie=edge">
 	<link href="https://fonts.googleapis.com/css?family=Montserrat|Roboto" rel="stylesheet">
-	<link rel="icon" href="https://image.ibb.co/mNLkGK/hak9.png">
+	<link rel="icon" href="https://pngimg.com/uploads/hacker/hacker_PNG1.png">
 	<title>Email Spoofer - BOGOSS</title>
 	<style>
 	body{
@@ -129,6 +129,9 @@ exit();
 	</style>
 </head>
 <body>
+<center>
+<img src="https://pngimg.com/uploads/hacker/hacker_PNG1.png">
+</center>
 <form action="" method="post">
 <div class="main" style="margin-top: 100px;">
 	<h1 id="title">Email Spoofer - BOGOSS</h1>
