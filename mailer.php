@@ -6,7 +6,7 @@
 -->
 
 <?php
-if (isset($_POST['ajax'])) {
+if (isset($_GET['ajax'])) {
 $to = $_GET['to'];
 $subject = $_GET['sub'];
 $msg = $_GET['msg'];
