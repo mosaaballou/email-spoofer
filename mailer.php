@@ -130,7 +130,7 @@ exit();
 </head>
 <body>
 <center>
-<img src="https://pngimg.com/uploads/hacker/hacker_PNG1.png">
+<img src="https://pngimg.com/uploads/hacker/hacker_PNG1.png" style="width:50px;height:60px;>
 </center>
 <form action="" method="post">
 <div class="main" style="margin-top: 100px;">
