@@ -131,7 +131,7 @@ exit();
 <body>
 <form action="" method="post">
 <div class="main" style="margin-top: 100px;">
-	<h1 id="title">Email Spoofer - Hak9</h1>
+	<h1 id="title">Email Spoofer - BOGOSS</h1>
 	<div>
 		<input type="text" name="from" id="from" placeholder="From Email">
 		<input type="text" name="name" id="name" placeholder="From Name">
