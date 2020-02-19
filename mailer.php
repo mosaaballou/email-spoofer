@@ -32,7 +32,7 @@ exit();
 	<meta http-equiv="X-UA-Compatible" content="ie=edge">
 	<link href="https://fonts.googleapis.com/css?family=Montserrat|Roboto" rel="stylesheet">
 	<link rel="icon" href="https://image.ibb.co/mNLkGK/hak9.png">
-	<title>Email Spoofer - Hak9</title>
+	<title>Email Spoofer - BOGOSS</title>
 	<style>
 	body{
 		margin: 0;
