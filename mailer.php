@@ -129,10 +129,6 @@ exit();
 	</style>
 </head>
 <body>
-	<br>
-<center>
-<img src="https://pngimg.com/uploads/hacker/hacker_PNG1.png" style="width:120px;height:120px;">
-</center>
 <form action="" method="post">
 <div class="main" style="margin-top: 100px;">
 	<h1 id="title">Email Spoofer - BOGOSS</h1>
